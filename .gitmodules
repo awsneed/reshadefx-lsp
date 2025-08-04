@@ -1,0 +1,6 @@
+[submodule "deps/reshade"]
+	path = deps/reshade
+	url = https://github.com/crosire/reshade.git
+[submodule "deps/lsp-framework"]
+	path = deps/lsp-framework
+	url = https://github.com/leon-bckl/lsp-framework.git
